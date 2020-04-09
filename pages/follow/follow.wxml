@@ -1,0 +1,3 @@
+<!--pages/follow/follow.wxml-->
+<text>声明式跳转</text>
+<navigator url="/pages/logs/logs">跳转到logs</navigator>

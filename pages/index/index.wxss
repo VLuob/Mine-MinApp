@@ -1,0 +1,21 @@
+/**index.wxss**/
+#h{height:500rpx;}
+.demo-text-1 {
+  background: red;
+}
+
+.demo-text-2 {
+  background: skyblue;
+}
+
+.demo-text-3 {
+  background: green;
+}
+
+.swiper-item {
+  width: 100%;
+  height: 600rpx;
+  color: white;
+  line-height: 300rpx;
+  text-align: center;
+}
